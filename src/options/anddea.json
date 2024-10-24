@@ -3,16 +3,16 @@
 	  "patchName" : "Custom branding name for YouTube",
 	  "options" : [ {
 		"key" : "AppName",
-		"value" : "RVX Anddea"
+		"value" : "YouTube RVX Anddea"
 	  } ]
 	}, {
 	  "patchName" : "Custom branding name for YouTube Music",
 	  "options" : [ {
 		"key" : "AppNameNotification",
-		"value" : "RVX Music Anddea"
+		"value" : "YouTube Music ReVanced Extended Anddea"
 	  }, {
 		"key" : "AppNameLauncher",
-		"value" : "RVX Music Anddea"
+		"value" : "YT Music RVX Anddea"
 	  } ]
 	}
 ]
